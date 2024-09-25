@@ -1,7 +1,7 @@
 #!/bin/python3
 
+import torch
 import pandas as pd
-import example
 import numpy as np
 import matplotlib.pyplot as plt
 
