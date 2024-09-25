@@ -4,6 +4,6 @@
 print("Hello world")
 
 
-name = int(input("Enter Number: "))
+name = input("Enter Name: ")
 
 print("Hello " + name + "!")
