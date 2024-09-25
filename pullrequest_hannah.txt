@@ -1,0 +1,4 @@
+What I learned - 
+I learned GitHub has features that try to prevent and/or alert you from having conflicted documents. 
+
+I also learned that cloning someone else's repository to your local desktop will allow you to use the published repository, without undoing someone else's work. 
