@@ -1,3 +1,5 @@
 Today I learned that using the
 Git app is a lot simpler than
 using the command line.
+
+Why is this so hard
